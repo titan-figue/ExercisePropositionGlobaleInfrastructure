@@ -45,6 +45,8 @@ Il permet de s'assurer que les développeurs ont les bons outils pour être plus
 
 Il est composé généralement d'un éditeur de code, d'un compilateur, d'un débogueur et d'un générateur d'interface graphique. Ils existent plusieurs IDE dans le cadre de l'intégration continue
 
+![2020-08-12_logos](D:/Documents/ESTIA/Evaluation/images/2020-08-12_logos.png)
+
 ![image.png](attachment:image.png)
 
 On propose de travailler avec Visual Studio code parce que il s'adapte à la plus part des langages de programmation.
