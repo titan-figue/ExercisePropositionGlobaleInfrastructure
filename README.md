@@ -1,5 +1,5 @@
 ![title](https://www.bayonne.cci.fr/images/articles/Le-campus-ESTIA-confirme-son-attractivite_chapeau.png)
-# ExercisePropositionGlobaleInfrastructure
+# Exercise Proposition Globale Infrastructure
 
 Elaboré par: Virginia PEREZ  
 ESTIA - Bidart; 
