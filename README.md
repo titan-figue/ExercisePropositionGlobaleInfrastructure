@@ -1,1 +1,1 @@
-# ExxercisePropositionGlobaleInfrastructure
+# ExercisePropositionGlobaleInfrastructure
